@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import ModeEditOutlineRoundedIcon from "@mui/icons-material/ModeEditOutlineRounded";
 import DeleteRoundedIcon from "@mui/icons-material/DeleteRounded";
 import DoneRoundedIcon from "@mui/icons-material/DoneRounded";
-import { TodoItems } from "../models";
+import { TodoItems } from "../models/models";
 import Typography from "@mui/material/Typography";
 import IconButton from "@mui/material/IconButton";
 import Box from "@mui/material/Box/Box";

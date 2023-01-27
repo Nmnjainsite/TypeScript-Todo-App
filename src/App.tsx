@@ -1,6 +1,6 @@
 import { useState } from "react";
 import "./App.css";
-import { TodoItems } from "./models";
+import { TodoItems } from "./models/models";
 import InputField from "./components/InputField";
 import TodoList from "./components/TodoList";
 import * as React from "react";
